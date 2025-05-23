@@ -1,0 +1,12 @@
+{
+    "nome": "Luis",
+    "idade": 23,
+    "email": "lfromera7@gmail.com",
+    "endereco": [
+        {
+            "logradouro": "rua inventada",
+            "numero": 25,
+            "cep": "xxxxx-xxx"
+        }
+    ]
+}
